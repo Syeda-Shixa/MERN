@@ -1,5 +1,5 @@
 import React from "react";
-import { Home, TrendingUp, Library,  Clock, ThumbsUp, Play, Download, Video } from 'lucide-react';
+import { Home, TrendingUp,  Library, History, Clock, ThumbsUp, Play, Download, Video } from 'lucide-react';
 
 export const NavItem = () => {
   return (
